@@ -23,14 +23,23 @@ The goal is simple: **repeat the sequence of lights and sounds** as long as you 
 
 ## 📂 Project Structure
 ├── index.html # Main game UI
+
 ├── styles.css # Styling for the game
+
 ├── script.js # Game logic
+
 ├── sounds/ # Sound files
+
 │ ├── blue.mp3
+
 │ ├── green.mp3
+
 │ ├── red.mp3
+
 │ ├── yellow.mp3
+
 │ └── wrong.mp3
+
 └── README.md # Project documentation
 ## ⚙️ How to Run Locally
 
